@@ -1,0 +1,11 @@
+{
+  "rem": "/* 文档头部连接 */",
+  "cn" : {
+    "/manual/" : "Erlang中文手册",
+    "/pdf/"    : "Erlang程序设计",
+    "/game/"   : "游戏服务器",
+    "/concurrent_programming/" : "Erlang并发编程",
+    "/otp/"    : "OTP设计原理",
+    "/mnesia/" : "Mnesia中文手册"
+  }
+}

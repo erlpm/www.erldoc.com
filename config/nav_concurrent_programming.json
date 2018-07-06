@@ -1,0 +1,40 @@
+[
+  {
+    "name": {
+      "cn" : "Erlang并发编程"
+    },
+    "data":{
+      "/webu/"              : {
+        "cn"    : "序言",
+        "data"  : "erl_concurrent_programming/base.{lang}.md"
+      },
+       "/webu/refrence.html" : {
+           "cn"    : "致谢",
+           "data"  : "erl_concurrent_programming/refrence.{lang}.md"
+       }
+    }
+  },
+  {
+    "name": {
+      "cn" : "简介"
+    },
+    "data":{
+      "/webu/webu.html" : {
+        "cn"    : "第1章 Erlang教程",
+        "data"  : "erl_concurrent_programming/webu.{lang}.md"
+      },
+      "/webu/webu_net.html" : {
+        "cn"    : "第2章 串行编程",
+        "data"  : "erl_concurrent_programming/webu_net.{lang}.md"
+      },
+      "/webu/webu_huc.html" : {
+        "cn"    : "第3章 列表编程",
+        "data"  : "erl_concurrent_programming/webu_huc.{lang}.md"
+      },
+      "/webu/webu_db.html" : {
+        "cn"    : "第4章 使用元组",
+        "data"  : "erl_concurrent_programming/webu_db.{lang}.md"
+      }
+    }
+  }
+]

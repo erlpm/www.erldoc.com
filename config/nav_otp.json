@@ -1,0 +1,17 @@
+[
+  {
+    "name": {
+      "cn" : "Erlang OTP 设计原理"
+    },
+    "data":{
+      "/webu/"              : {
+        "cn"    : "概述",
+        "data"  : "erl_otp/base.{lang}.md"
+      },
+       "/webu/refrence.html" : {
+           "cn"    : "Gen_Server行为",
+           "data"  : "erl_otp/refrence.{lang}.md"
+       }
+    }
+  }
+]

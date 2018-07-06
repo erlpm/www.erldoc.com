@@ -1,0 +1,28 @@
+[
+  {
+    "name"   : {
+      "cn" : "Mnesia 用户手册"
+    },
+    "data":{
+      "/paper/"  : {
+        "cn"    : "1、介绍",
+        "data"  : "erl_mnesia_manual/index.{lang}.md"
+      }
+    }
+  },
+  {
+    "name": {
+      "cn" : "开始 Mnesia"
+    },
+    "data":{
+      "/paper/mpt.html"  : {
+        "cn"    : "首次启动 Mnesia ",
+        "data"  : "erl_mnesia_manual/mpt.{lang}.md"
+      },
+      "/paper/poalgo.html"  : {
+        "cn"    : "一个示例",
+        "data"  : "erl_mnesia_manual/conses.{lang}.md"
+      }
+    }
+  }
+]

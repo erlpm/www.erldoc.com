@@ -1,0 +1,24 @@
+[
+	{
+        "name": {
+            "cn" : "通用 OTP 应用函数（application）"
+        },
+        "data": {
+            "/api/"  : {
+                "cn"    : "API Index",
+                "data"  : "erl_manual/index.{lang}.md"
+            }
+        }
+    },
+    {
+        "name": {
+            "cn" : "array - 函数式且可扩展的数组"
+        },
+        "data":{
+            "/api/rpc_interface.html"  : {
+                "cn"    : "from_list/1",
+                "data"  : "erl_manual/rpc_interface.{lang}.md"
+            }
+        }
+    }
+]

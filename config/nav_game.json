@@ -1,0 +1,24 @@
+[
+  {
+    "name": {
+      "cn" : "游戏服务器"
+    },
+    "data":{
+      "/webu/"              : {
+        "cn"    : "游戏服务器",
+        "data"  : "erl_game/base.{lang}.md"
+      }
+    }
+  },
+  {
+    "name": {
+      "cn" : "游戏服务器"
+    },
+    "data":{
+      "/webu/" : {
+        "cn"    : "游戏服务器",
+        "data"  : "erl_game/base.{lang}.md"
+      }
+    }
+  }
+]
