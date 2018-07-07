@@ -4,9 +4,9 @@
             "cn" : "通用 OTP 应用函数（application）"
         },
         "data": {
-            "/api/"  : {
-                "cn"    : "API Index",
-                "data"  : "erl_manual/index.{lang}.md"
+            "/manual/"  : {
+                "cn"    : "Erlang中文手册",
+                "data"  : "erl_manual/index.cn.md"
             }
         }
     },
@@ -15,7 +15,7 @@
             "cn" : "array - 函数式且可扩展的数组"
         },
         "data":{
-            "/api/rpc_interface.html"  : {
+            "/manual/array.html"  : {
                 "cn"    : "from_list/1",
                 "data"  : "erl_manual/rpc_interface.{lang}.md"
             }

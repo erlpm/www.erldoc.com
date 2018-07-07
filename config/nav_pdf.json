@@ -4,7 +4,7 @@
       "cn"    : "Erlang程序设计(第1版)"
     },
     "data":{
-      "/paper/"  : {
+      "/pdf/"  : {
         "cn"    : "前 言",
         "data"  : "erl_pdf1/index.{lang}.md"
       }
@@ -15,11 +15,11 @@
       "cn"    : "Erlang程序设计(第2版)"
     },
     "data":{
-      "/paper/mpt.html"  : {
+      "/pdf/mpt.html"  : {
         "cn"    : "前 言",
         "data"  : "erl_pdf2/mpt.{lang}.md"
       },
-      "/paper/poalgo.html"  : {
+      "/pdf/poalgo.html"  : {
         "cn"    : "第一部分 为何用 Erlang",
         "data"  : "erl_pdf2/conses.{lang}.md"
       }
